@@ -1,0 +1,12 @@
+[submodule "services/thinking-extractor"]
+	path = services/thinking-extractor
+	url = https://github.com/svo/knowledge-matchmaker-thinking-extractor.git
+[submodule "services/corpus-indexer"]
+	path = services/corpus-indexer
+	url = https://github.com/svo/knowledge-matchmaker-corpus-indexer.git
+[submodule "services/relationship-engine"]
+	path = services/relationship-engine
+	url = https://github.com/svo/knowledge-matchmaker-relationship-engine.git
+[submodule "ui/knowledge-matchmaker-ui"]
+	path = ui/knowledge-matchmaker-ui
+	url = https://github.com/svo/knowledge-matchmaker-ui.git
