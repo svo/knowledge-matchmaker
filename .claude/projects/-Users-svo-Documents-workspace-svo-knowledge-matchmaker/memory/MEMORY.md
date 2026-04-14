@@ -1,0 +1,1 @@
+- [No Co-Authored-By](feedback_no_coauthored_by.md) — user does not want Co-Authored-By trailer in commit messages
